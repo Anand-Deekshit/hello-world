@@ -1,2 +1,1 @@
-# hello-world
-Github repo. Pretty cool!
+Hey. I am Deekshit Vedula. I love science!
